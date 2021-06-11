@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###Credits:
+Music player taken from [Here](https://www.backlinkn.com/2020/11/make-music-player-using-html-and-css.html)
+Sample mp4 files taken from [Pixabay](https://pixabay.com/)
